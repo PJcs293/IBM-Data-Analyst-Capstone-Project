@@ -1,2 +1,1 @@
-# sample-Jupyter-notebook
-capstone project week1
+# IBM Data Analyst Capstone Project
